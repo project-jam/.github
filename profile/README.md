@@ -1,1 +1,1 @@
-![topographic lines :)](./topographic-lines.png)
+![topographic lines :)](../topographic-lines.png)
